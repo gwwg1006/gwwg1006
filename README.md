@@ -13,6 +13,7 @@
 | [kimcre-ai-workflow](https://github.com/gwwg1006/kimcre-ai-workflow) | 문의 → 개인정보 분리 → 견적 → 응대 → 배송 AI 워크플로우 (Python, 의존성 없이 실행) |
 | [modelmaker](https://github.com/gwwg1006/modelmaker) | 문구 입력으로 Bambu Lab 멀티컬러 이름표 3MF를 만드는 웹앱 (React, TypeScript) |
 | [print-farm-board](https://github.com/gwwg1006/print-farm-board) | 여러 프린터의 출력 작업을 한 화면에서 관리하는 보드 · [데모](https://print-farm-board.vercel.app) |
+| [stl-product-guide](https://github.com/gwwg1006/stl-product-guide) | STL 파일로 출고용 상품 안내서(A4)를 만드는 로컬 웹앱 (React, Three.js) |
 
 ## 링크
 
